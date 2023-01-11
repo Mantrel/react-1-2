@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.labelColor{
+  background-color: rgb(209, 209, 209);
+  padding: 20px;
+}
+.tituloLabel{
+  text-align: center;
+  background-color: rgb(12, 45, 95);
+  padding: 20px;
+color: rgb(224, 224, 224);
+}
+
+.footerM {
+  text-align: center;
+  font-weight: 50;
+}
+.botonSub {
+  text-align: center;
+  background-color: rgb(146, 144, 144);
+  padding: 15px;
+}
